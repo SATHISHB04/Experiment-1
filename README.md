@@ -30,6 +30,8 @@ int main() {
 ![Screenshot (2)](https://github.com/user-attachments/assets/283064b4-3915-46d7-bb09-46c0884eefe7)
 
 ## Result
+To demonstrating the do...while loop is completed successfully. The program executes the loop body at least once before evaluating the condition.
+
 
 ## b) Aim
 To demonstrate the working of the while...do loop, where the loop will execute the body of the loop as long as the condition is true.
@@ -60,7 +62,7 @@ int main() {
 ![Screenshot (3)](https://github.com/user-attachments/assets/9209530a-6f72-42b8-9c25-ecba9725f6c2)
 
 ## Result
-
+To demonstrating the while...do loop is completed successfully. The program checks the condition first and executes the loop body while the condition remains true.
 ## c) Aim
 To demonstrate the working of the if...else conditional statement, which allows for decision-making based on a condition.
 
@@ -94,6 +96,8 @@ int main() {
 ![Screenshot (4)](https://github.com/user-attachments/assets/fdc83951-ba1d-43a6-b730-c5cf322289f9)
 
 ## Result
+To demonstrating the if...else statement is completed successfully. The program correctly decides between two possible execution paths based on a given condition.
+
 
 ## d) Aim
 To demonstrate the working of the switch statement, which is used to select one of many code blocks to be executed.
@@ -137,7 +141,7 @@ return 0;
 ![Screenshot (5)](https://github.com/user-attachments/assets/371f27f5-7c1a-4314-8ad1-0dd643cfb8a1)
 
 ## Result
-
+To demonstrating the switch statement is completed successfully. The program selects and executes a specific case based on the input value, ensuring efficient multiple-choice decision-making.
 # e) Aim
 To demonstrate the working of the for loop, which is used to iterate a fixed number of times.
 
@@ -166,3 +170,4 @@ int main() {
 ![Screenshot (6)](https://github.com/user-attachments/assets/7750f856-94e0-4812-941b-e10dc1c5a68f)
 
 ## Result
+To demonstrating the for loop is completed successfully. The program iterates a fixed number of times, performing initialization, condition checking, and incrementing in a single statement.
