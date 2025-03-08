@@ -1,4 +1,6 @@
 # Experiment-1
+## Name:SATHISH.B
+## Regno:212224040299
 ##  Write a C programs  to demonstrate the working of following constructs with possible test cases:
 a) do…while b) while…do c) if …else d) switch e) for
 ## a) Aim
